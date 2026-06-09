@@ -52,3 +52,15 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | 1237 | Find Positive Integer Solution For A Given Equation | **Medium** | [Code](./Week%204/1237-find-positive-integer-solution-for-a-given-equation) | [LeetCode](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) |
 | 1346 | Check If N And Its Double Exist | **Easy** | [Code](./Week%204/1346-check-if-n-and-its-double-exist) | [LeetCode](https://leetcode.com/problems/check-if-n-and-its-double-exist/) |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0875-koko-eating-bananas](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0875-koko-eating-bananas/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0875-koko-eating-bananas](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0875-koko-eating-bananas/) | Medium |
+<!---LeetCode Topics End-->
