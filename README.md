@@ -58,9 +58,11 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 <!---LeetCode Topics End-->
