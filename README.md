@@ -76,19 +76,26 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0463-island-perimeter/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
