@@ -72,4 +72,16 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0069-sqrtx/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 <!---LeetCode Topics End-->
