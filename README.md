@@ -65,6 +65,11 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0875-koko-eating-bananas/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
