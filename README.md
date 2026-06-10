@@ -46,9 +46,13 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 
 | ID | Tên bài tập | Độ khó | Đường dẫn | LeetCode Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 34 | Find First And Last Position Of Element In Sorted Array | **Medium** | [Code](./Week%204/0034-find-first-and-last-position-of-element-in-sorted-array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
+| 69 | Sqrt(x) | **Easy** | [Code](./Week%204/0069-sqrtx) | [LeetCode](https://leetcode.com/problems/sqrtx/) |
+| 153 | Find Minimum In Rotated Sorted Array | **Medium** | [Code](./Week%204/0153-find-minimum-in-rotated-sorted-array) | [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 | 169 | Majority Element | **Easy** | [Code](./Week%204/0169-majority-element) | [LeetCode](https://leetcode.com/problems/majority-element/) |
 | 367 | Valid Perfect Square | **Easy** | [Code](./Week%204/0367-valid-perfect-square) | [LeetCode](https://leetcode.com/problems/valid-perfect-square/) |
 | 704 | Binary Search | **Easy** | [Code](./Week%204/0704-binary-search) | [LeetCode](https://leetcode.com/problems/binary-search/) |
+| 875 | Koko Eating Bananas | **Medium** | [Code](./Week%204/0875-koko-eating-bananas) | [LeetCode](https://leetcode.com/problems/koko-eating-bananas/) |
 | 1237 | Find Positive Integer Solution For A Given Equation | **Medium** | [Code](./Week%204/1237-find-positive-integer-solution-for-a-given-equation) | [LeetCode](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/) |
 | 1346 | Check If N And Its Double Exist | **Easy** | [Code](./Week%204/1346-check-if-n-and-its-double-exist) | [LeetCode](https://leetcode.com/problems/check-if-n-and-its-double-exist/) |
 
