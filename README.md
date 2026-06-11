@@ -110,4 +110,12 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0495-teemo-attacking/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
