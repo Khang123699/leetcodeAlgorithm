@@ -72,61 +72,13 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 
 | ID | Tên bài tập | Độ khó | Đường dẫn | LeetCode Link |
 | :--- | :--- | :--- | :--- | :--- |
+| 26 | Remove Duplicates from Sorted Array | **Easy** | [Code](./Practice/0026-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
+| 83 | Remove Duplicates from Sorted List | **Easy** | [Code](./Practice/0083-remove-duplicates-from-sorted-list) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
+| 160 | Intersection of Two Linked Lists | **Easy** | [Code](./Practice/0160-intersection-of-two-linked-lists) | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) |
+| 206 | Reverse Linked List | **Easy** | [Code](./Practice/0206-reverse-linked-list) | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) |
+| 495 | Teemo Attacking | **Easy** | [Code](./Practice/0495-teemo-attacking) | [LeetCode](https://leetcode.com/problems/teemo-attacking/) |
+| 496 | Next Greater Element I | **Easy** | [Code](./Practice/0496-next-greater-element-i) | [LeetCode](https://leetcode.com/problems/next-greater-element-i/) |
 | 733 | Flood Fill | **Easy** | [Code](./Practice/0733-flood-fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0160-intersection-of-two-linked-lists](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
-| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
-| [1370-increasing-decreasing-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1370-increasing-decreasing-string/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0796-rotate-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0796-rotate-string/) | Easy |
-| [1370-increasing-decreasing-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1370-increasing-decreasing-string/) | Easy |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1370-increasing-decreasing-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1370-increasing-decreasing-string/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-| [0495-teemo-attacking](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0495-teemo-attacking/) | Easy |
-| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
-## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0796-rotate-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0796-rotate-string/) | Easy |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0495-teemo-attacking](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0495-teemo-attacking/) | Easy |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
-| [0160-intersection-of-two-linked-lists](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
-| [0206-reverse-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0206-reverse-linked-list/) | Easy |
-| [0876-middle-of-the-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0206-reverse-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0206-reverse-linked-list/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-| [0160-intersection-of-two-linked-lists](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
-| [0876-middle-of-the-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
-<!---LeetCode Topics End-->
+| 796 | Rotate String | **Easy** | [Code](./Practice/0796-rotate-string) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
+| 876 | Middle of the Linked List | **Easy** | [Code](./Practice/0876-middle-of-the-linked-list) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 1370 | Increasing Decreasing String | **Easy** | [Code](./Practice/1370-increasing-decreasing-string) | [LeetCode](https://leetcode.com/problems/increasing-decreasing-string/) |
