@@ -92,6 +92,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -105,4 +106,8 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0796-rotate-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0495-teemo-attacking](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0495-teemo-attacking/) | Easy |
 <!---LeetCode Topics End-->
