@@ -73,3 +73,18 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | ID | Tên bài tập | Độ khó | Đường dẫn | LeetCode Link |
 | :--- | :--- | :--- | :--- | :--- |
 | 733 | Flood Fill | **Easy** | [Code](./Practice/0733-flood-fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1370-increasing-decreasing-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1370-increasing-decreasing-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1370-increasing-decreasing-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1370-increasing-decreasing-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1370-increasing-decreasing-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1370-increasing-decreasing-string/) | Easy |
+<!---LeetCode Topics End-->
