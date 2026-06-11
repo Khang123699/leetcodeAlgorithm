@@ -114,8 +114,13 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0206-reverse-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
