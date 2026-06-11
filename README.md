@@ -113,6 +113,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
