@@ -81,6 +81,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Week%204/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0200-number-of-islands](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Week%205/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Week%205/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0733-flood-fill/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Week%204/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0994-rotting-oranges/) | Medium |
@@ -115,6 +116,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | [0111-minimum-depth-of-binary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Week%205/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Week%205/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Week%205/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0542-01-matrix/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Week%205/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0994-rotting-oranges/) | Medium |
@@ -124,6 +126,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Week%205/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Week%205/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Practice/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -135,4 +138,8 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/Week%205/0200-number-of-islands/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0542-01-matrix](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0542-01-matrix/) | Medium |
 <!---LeetCode Topics End-->
