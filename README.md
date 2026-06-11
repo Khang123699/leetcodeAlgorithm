@@ -93,6 +93,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0495-teemo-attacking](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
 ## Stack
@@ -125,6 +126,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
