@@ -83,6 +83,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0796-rotate-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0796-rotate-string/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1370-increasing-decreasing-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -100,4 +101,8 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
