@@ -78,6 +78,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1370-increasing-decreasing-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -87,4 +88,16 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1370-increasing-decreasing-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1370-increasing-decreasing-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
