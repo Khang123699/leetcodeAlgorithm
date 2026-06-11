@@ -78,6 +78,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0496-next-greater-element-i/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1370-increasing-decreasing-string/) | Easy |
 ## String
@@ -114,6 +115,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -123,5 +125,6 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
