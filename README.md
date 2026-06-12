@@ -82,3 +82,14 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | 796 | Rotate String | **Easy** | [Code](./Practice/0796-rotate-string) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
 | 876 | Middle of the Linked List | **Easy** | [Code](./Practice/0876-middle-of-the-linked-list) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
 | 1370 | Increasing Decreasing String | **Easy** | [Code](./Practice/1370-increasing-decreasing-string) | [LeetCode](https://leetcode.com/problems/increasing-decreasing-string/) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
+<!---LeetCode Topics End-->
