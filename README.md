@@ -93,4 +93,16 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2126-destroying-asteroids](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2126-destroying-asteroids/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2126-destroying-asteroids](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2126-destroying-asteroids/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2126-destroying-asteroids](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2126-destroying-asteroids/) | Medium |
 <!---LeetCode Topics End-->
