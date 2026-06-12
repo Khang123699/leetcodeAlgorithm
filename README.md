@@ -81,28 +81,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 | 733 | Flood Fill | **Easy** | [Code](./Practice/0733-flood-fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) |
 | 796 | Rotate String | **Easy** | [Code](./Practice/0796-rotate-string) | [LeetCode](https://leetcode.com/problems/rotate-string/) |
 | 876 | Middle of the Linked List | **Easy** | [Code](./Practice/0876-middle-of-the-linked-list) | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) |
+| 1021 | Remove Outermost Parentheses | **Easy** | [Code](./Practice/1021-remove-outermost-parentheses) | [LeetCode](https://leetcode.com/problems/remove-outermost-parentheses/) |
 | 1370 | Increasing Decreasing String | **Easy** | [Code](./Practice/1370-increasing-decreasing-string) | [LeetCode](https://leetcode.com/problems/increasing-decreasing-string/) |
 | 1974 | Minimum Time to Type Word Using Special Typewriter | **Easy** | [Code](./Practice/1974-minimum-time-to-type-word-using-special-typewriter) | [LeetCode](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/) |
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1021-remove-outermost-parentheses](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1021-remove-outermost-parentheses/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1021-remove-outermost-parentheses](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/1021-remove-outermost-parentheses/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2126-destroying-asteroids](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2126-destroying-asteroids/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2126-destroying-asteroids](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2126-destroying-asteroids/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2126-destroying-asteroids](https://github.com/Khang123699/leetcodeAlgorithm/tree/main/2126-destroying-asteroids/) | Medium |
-<!---LeetCode Topics End-->
+| 2126 | Destroying Asteroids | **Medium** | [Code](./Practice/2126-destroying-asteroids) | [LeetCode](https://leetcode.com/problems/destroying-asteroids/) |
