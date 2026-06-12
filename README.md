@@ -1,10 +1,10 @@
 # LeetCode Exercises
 
-Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
+List of completed LeetCode exercises grouped by week.
 
 ## Week 1
 
-| ID | Tên bài tập | Độ khó | Đường dẫn | LeetCode Link |
+| ID | Title | Difficulty | Path | LeetCode Link |
 | :--- | :--- | :--- | :--- | :--- |
 | 3 | Longest Substring Without Repeating Characters | **Medium** | [Code](./Week%201/0003-longest-substring-without-repeating-characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | 20 | Valid Parentheses | **Easy** | [Code](./Week%201/0020-valid-parentheses) | [LeetCode](https://leetcode.com/problems/valid-parentheses/) |
@@ -19,7 +19,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 
 ## Week 2&3
 
-| ID | Tên bài tập | Độ khó | Đường dẫn | LeetCode Link |
+| ID | Title | Difficulty | Path | LeetCode Link |
 | :--- | :--- | :--- | :--- | :--- |
 | 19 | Remove Nth Node From End Of List | **Medium** | [Code](./Week%202%263/0019-remove-nth-node-from-end-of-list) | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
 | 75 | Sort Colors | **Medium** | [Code](./Week%202%263/0075-sort-colors) | [LeetCode](https://leetcode.com/problems/sort-colors/) |
@@ -44,7 +44,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 
 ## Week 4
 
-| ID | Tên bài tập | Độ khó | Đường dẫn | LeetCode Link |
+| ID | Title | Difficulty | Path | LeetCode Link |
 | :--- | :--- | :--- | :--- | :--- |
 | 34 | Find First And Last Position Of Element In Sorted Array | **Medium** | [Code](./Week%204/0034-find-first-and-last-position-of-element-in-sorted-array) | [LeetCode](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 69 | Sqrt(x) | **Easy** | [Code](./Week%204/0069-sqrtx) | [LeetCode](https://leetcode.com/problems/sqrtx/) |
@@ -58,7 +58,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 
 ## Week 5
 
-| ID | Tên bài tập | Độ khó | Đường dẫn | LeetCode Link |
+| ID | Title | Difficulty | Path | LeetCode Link |
 | :--- | :--- | :--- | :--- | :--- |
 | 111 | Minimum Depth Of Binary Tree | **Easy** | [Code](./Week%205/0111-minimum-depth-of-binary-tree) | [LeetCode](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
 | 200 | Number Of Islands | **Medium** | [Code](./Week%205/0200-number-of-islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) |
@@ -70,7 +70,7 @@ Danh sách các bài tập LeetCode đã hoàn thành chia theo từng tuần.
 
 ## Practice
 
-| ID | Tên bài tập | Độ khó | Đường dẫn | LeetCode Link |
+| ID | Title | Difficulty | Path | LeetCode Link |
 | :--- | :--- | :--- | :--- | :--- |
 | 26 | Remove Duplicates from Sorted Array | **Easy** | [Code](./Practice/0026-remove-duplicates-from-sorted-array) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 83 | Remove Duplicates from Sorted List | **Easy** | [Code](./Practice/0083-remove-duplicates-from-sorted-list) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
